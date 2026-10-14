@@ -6,3 +6,4 @@ outputs/*
 !outputs/results.json
 .venv/
 __pycache__/
+.DS_Store

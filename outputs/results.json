@@ -1,0 +1,48 @@
+{
+  "households": 120554,
+  "car_households": 40528,
+  "dependent_households_est": 34340,
+  "charging_sites": 477,
+  "charging_sites_in_borough": 315,
+  "sites_in_borough_by_source": {
+    "Open Charge Map": 296,
+    "Open Charge Map, OpenStreetMap": 11,
+    "OpenStreetMap": 8
+  },
+  "ocm_charge_points_in_borough": 452,
+  "council_reported_lamp_column_points": 2000,
+  "walk_minutes": 3,
+  "radius_m": 240,
+  "coverage_dependent_households": 0.6215,
+  "coverage_all_households": 0.6039,
+  "coverage_dependent_households_5min": 0.8829,
+  "dependent_households_beyond_target": 12996,
+  "proposed_sites": [
+    {
+      "rank": 1,
+      "households_added": 353,
+      "coverage_after": 0.6318352967748013
+    },
+    {
+      "rank": 2,
+      "households_added": 338,
+      "coverage_after": 0.6416803594769915
+    },
+    {
+      "rank": 3,
+      "households_added": 334,
+      "coverage_after": 0.6514030471418863
+    },
+    {
+      "rank": 4,
+      "households_added": 322,
+      "coverage_after": 0.6607693133751349
+    },
+    {
+      "rank": 5,
+      "households_added": 283,
+      "coverage_after": 0.66899689170162
+    }
+  ],
+  "coverage_after_new_sites": 0.669
+}
