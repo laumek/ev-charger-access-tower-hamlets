@@ -1,0 +1,8 @@
+data/*
+!data/chargers_manual.csv
+cache/
+outputs/*
+!outputs/ev_access_map.png
+!outputs/results.json
+.venv/
+__pycache__/

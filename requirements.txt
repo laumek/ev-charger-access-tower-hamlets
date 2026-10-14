@@ -1,0 +1,8 @@
+geopandas>=0.14
+osmnx>=2.0
+networkx>=3.0
+pandas>=2.0
+numpy
+matplotlib
+scipy
+requests
